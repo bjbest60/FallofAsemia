@@ -1,5 +1,5 @@
 # The Fall of Asemia
-Glyph creation from The Fall of Asemia.  Interactive fiction entered in Spring Thing 2022.  Created in Processing.
+Glyph creation from <i>The Fall of Asemia</i> by B.J. Best.  Interactive fiction entered in Spring Thing 2022.  Created in Processing.
 
 Each file uses the settings for the particular character that speaks.
 
